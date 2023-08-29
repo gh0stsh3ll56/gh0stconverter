@@ -44,7 +44,3 @@ It's recommended to create a virtual environment to isolate dependencies if need
 License
 This project is licensed under the MIT License.
 
-vbnet
-Copy code
-
-Remember to replace the `LICENSE` link with the actual link to your license file (if you're using one) and add any additional sections or information you think would be helpful for users.
